@@ -165,6 +165,6 @@ which will automatically convert the code into a BEMIT code that look like this 
 
 ## **Wrapping Up**
 
-Hope you liked my view point on BEM. This is just the first part of the story, next up I will cover up the CSS Methodology coming from JavaScript Community which according to me (yes, opinionated) can become the **worst** approach if separation of concerns is not taken care of. Next up we will cover CSS in JS and will also talk about how you can take care of separation of concerns within your JavaScript with ease.
+Hope you liked my view point on BEM. This is just the first part of the story, [next up](https://tech.io/playgrounds/9923/the-state-of-css-specificity-part-2) I will cover up the CSS Methodology coming from JavaScript Community which according to me (yes, opinionated) can become the **worst** approach if separation of concerns is not taken care of. Next up we will cover CSS in JS and will also talk about how you can take care of separation of concerns within your JavaScript with ease.
 
 **Thanks a lot**, If you liked my article and also my passion for teaching and want to say hello… my twitter handle is [@harmanmanchanda](https://bit.ly/tw-harry). My DM’s are open to the public so just hit me up.
